@@ -1,0 +1,180 @@
+.styles {
+    background: rgb(231, 228, 228) no-repeat;
+    background-size: cover;
+    font-family: 'Fira Sans Condensed', sans-serif;
+
+}
+
+.top {
+    color: rgb(194, 153, 99);
+}
+
+.line {
+    position: absolute;
+    background-color: black;
+}
+
+.horizontal {
+    width: 85%;
+    height: 3px;
+    margin-top: 27%;
+
+}
+
+#line_one {
+    top: 4%;
+    left: 6%;
+    right: 8%;
+}
+
+.lin {
+    position: absolute;
+    background-color: black;
+}
+
+.horizonta {
+    width: 85%;
+    height: 3px;
+    margin-top: 20%;
+
+}
+
+#line {
+    top: 4%;
+    left: 6%;
+    right: 8%;
+}
+
+.schooling {
+    display: flex;
+}
+
+body {
+    padding: 5%;
+}
+
+.top {
+    text-align: center;
+}
+
+.work {
+    display: flex;
+}
+
+.work_two {
+    display: flex;
+}
+
+.one {
+    margin-left: 66%;
+}
+
+.two {
+    margin-left: 52%;
+}
+
+.three {
+    margin-left: 77%;
+}
+
+.four {
+    margin-left: 60%;
+}
+
+.five {
+    margin-left: 70%;
+}
+
+.six {
+    margin-left: 43%;
+}
+
+.line1 {
+    position: absolute;
+    background-color: black;
+}
+
+.horizontal1 {
+    width: 85%;
+    height: 3px;
+    margin-top: 50%;
+
+}
+
+#line_two {
+    top: 4%;
+    left: 6%;
+    right: 8%;
+}
+
+.line3 {
+    position: absolute;
+    background-color: black;
+}
+
+.horizontal3 {
+    width: 85%;
+    height: 3px;
+    margin-top: 60%;
+    /* margin-left: -50px; */
+}
+
+#line_three {
+    top: 4%;
+    left: 6%;
+    right: 8%;
+}
+
+.line4 {
+    position: absolute;
+    background-color: black;
+}
+
+.horizontal4 {
+    width: 85%;
+    height: 3px;
+    margin-top: 78%;
+    /* margin-left: -50px; */
+}
+
+#line_four {
+    top: 4%;
+    left: 6%;
+    right: 8%;
+}
+
+.line5 {
+    position: absolute;
+    background-color: black;
+}
+
+.horizontal5 {
+    width: 85%;
+    height: 3px;
+    margin-top: 93%;
+
+}
+
+#line_five {
+    top: 4%;
+    left: 6%;
+    right: 8%;
+}
+
+.line6 {
+    position: absolute;
+    background-color: black;
+}
+
+.horizontal6 {
+    width: 85%;
+    height: 3px;
+    margin-top: 102%;
+
+}
+
+#line_six {
+    top: 4%;
+    left: 6%;
+    right: 8%;
+}
